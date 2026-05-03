@@ -13,6 +13,9 @@ Project: Tracks project information like number, title, start date, end date, an
 Employee Roles in Projects: Tracks the participation of employees in projects, including their roles.
  
 Create SQL Tables
+les etapes :
+1- create Departement&Employee.png
+2- create create Project.png
 
 Write SQL scripts to define the following tables:
  
@@ -50,9 +53,6 @@ Employee_Project Table:
 Employee_Num_E (Foreign Key): INT
 Project_Num_P (Foreign Key): INT
 Role: VARCHAR(255)
-les etapes :
-1- create Departement&Employee.png
-2- create create Project.png
 3- create create Employer_Project.png
 1- create Departement&Employee.png
 2- create Project.png 
