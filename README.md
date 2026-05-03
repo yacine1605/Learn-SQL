@@ -6,7 +6,7 @@ Instructions
 Understand the Entities and Relationships
 
 Review the details of the system:
- 
+  
 Employee: Tracks employee information such as number, name, position, salary, and the department they belong to.
 Department: Tracks department details, including its number, label, and manager's name.
 Project: Tracks project information like number, title, start date, end date, and the department it is assigned to.
